@@ -38,7 +38,7 @@
             </div>
         </header>
         <!-- About-->
-        <section class="content-section bg-dark" id="about">
+        <section class="content-section bs-gray-dark" id="about">
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
@@ -67,7 +67,7 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Informática para Web</div>
-                                    <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                                    <p class="mb-0">Locais de Trabalho: Empresas de desenvolvimento de sites ou de sistemas e empresas de marketing digital. O técnico também pode trabalhar por conta própria, como freelancer, prestando serviço a outras empresas.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-01.jpg" alt="..." width="100%"/>
@@ -78,7 +78,7 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Administração</div>
-                                    <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                                    <p class="mb-0">Locais de Trabalho: Empresas privadas, seja de comércio, serviço ou indústria, órgãos públicos (prefeituras, secretarias de governo, ministérios do governo federal etc.) e ONGs.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-02.jpg" alt="..." width="100%"/>
@@ -89,7 +89,7 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Recursos Humanos</div>
-                                    <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
+                                    <p class="mb-0">Locais de Trabalho: No setor de Recursos Humanos ou na área administrativa de empresas públicas e privadas de qualquer segmento, empresas de treinamento e desenvolvimento e agências de emprego</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-03.jpg" alt="..." width="100%"/>
@@ -100,7 +100,7 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <div class="h2">Química</div>
-                                    <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
+                                    <p class="mb-0">Locais de Trabalho: Indústria química, setor alimentício, área agrícola, vendas e assistência técnica.</p>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-04.jpg" alt="..." width="100%"/>
