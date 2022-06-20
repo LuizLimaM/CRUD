@@ -42,18 +42,42 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
+                        <h2>Projeto Crud</h2>
                         <p class="lead mb-5">
-                            This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-                            <a href="https://unsplash.com/">Unsplash</a>
-                            !
+                            CRUD é o acrônimo da expressão do idioma Inglês, Create (Criação), Read (Consulta), Update (Atualização) e Delete (Destruição). Este acrônimo é comumente utilizado para definir as quatro operações básicas usadas em Banco de Dados Relacionais.
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">What We Offer</a>
+                        <p class="lead mb-5">
+                            Entre as vantagens de usar o conceito de CRUD estão a possibilidade da sua utilização tanto para modelo relacional (SQL) quanto não-relacional (NoSQL). Além disso, você como desenvolvedor torna mais ágil o desenvolvimento do código e das regras do negócio na API RESTfull.
+                        </p>
                     </div>
                 </div>
             </div>
         </section>
-    
+        <section class="content-section bg-primary text-white text-center" id="services">
+            <div class="container px-4 px-lg-5">
+                <div class="content-section-heading">
+                    <h2 class="h2-p">Tecnologias Utilizadas</h2>
+                </div>
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                    <img class="img-fluid" src="assets/img/phplogo.png" alt="..." width="100%"/>
+                        <h4>PHP</h4>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                    <img class="img-fluid" src="assets/img/javascriptlogo.png" alt="..." width="100%"/>
+                        <h4>JAVASCRIPT</h4>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                    <img class="img-fluid" src="assets/img/sqllogo.png" alt="..." width="100%"/>
+                        <h4>MYSQL</h4>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                    <img class="img-fluid" src="assets/img/pythonlogo.png" alt="..." width="100%"/>
+                        <h4>PYTHON</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Portfolio-->
         <section class="content-section" id="portfolio">
             <div class="container px-4 px-lg-5">
@@ -66,8 +90,7 @@
                         <a class="portfolio-item" href="#!">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Informática para Web</div>
-                                    <p class="mb-0">Locais de Trabalho: Empresas de desenvolvimento de sites ou de sistemas e empresas de marketing digital. O técnico também pode trabalhar por conta própria, como freelancer, prestando serviço a outras empresas.</p>
+                                    <div class="h2-p">INFORMÁTICA PARA WEB</div>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-01.jpg" alt="..." width="100%"/>
@@ -77,8 +100,7 @@
                         <a class="portfolio-item" href="#!">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Administração</div>
-                                    <p class="mb-0">Locais de Trabalho: Empresas privadas, seja de comércio, serviço ou indústria, órgãos públicos (prefeituras, secretarias de governo, ministérios do governo federal etc.) e ONGs.</p>
+                                    <div class="h2-p">ADMINISTRAÇÃO</div>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-02.jpg" alt="..." width="100%"/>
@@ -88,8 +110,8 @@
                         <a class="portfolio-item" href="#!">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Recursos Humanos</div>
-                                    <p class="mb-0">Locais de Trabalho: No setor de Recursos Humanos ou na área administrativa de empresas públicas e privadas de qualquer segmento, empresas de treinamento e desenvolvimento e agências de emprego</p>
+                                    <div class="h2-p">RECURSOS HUMANOS
+                                    </div>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-03.jpg" alt="..." width="100%"/>
@@ -99,8 +121,7 @@
                         <a class="portfolio-item" href="#!">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">Química</div>
-                                    <p class="mb-0">Locais de Trabalho: Indústria química, setor alimentício, área agrícola, vendas e assistência técnica.</p>
+                                    <div class="h2-p">QUÍMICA</div>
                                 </div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio-04.jpg" alt="..." width="100%"/>
